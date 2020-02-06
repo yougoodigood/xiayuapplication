@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: CommonIntegration
+server:
+  port: 8084
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8083/eureka/

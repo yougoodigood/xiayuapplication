@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityService/ActivityService.iml" filepath="$PROJECT_DIR$/ActivityService/ActivityService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdminGateWay/AdminGateWay.iml" filepath="$PROJECT_DIR$/AdminGateWay/AdminGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonIntegration/CommonIntegration.iml" filepath="$PROJECT_DIR$/CommonIntegration/CommonIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaRigstryCenter/EurekaRigstryCenter.iml" filepath="$PROJECT_DIR$/EurekaRigstryCenter/EurekaRigstryCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegrationClient/IntegrationClient.iml" filepath="$PROJECT_DIR$/IntegrationClient/IntegrationClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JobService/JobService.iml" filepath="$PROJECT_DIR$/JobService/JobService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderAccountService/OrderAccountService.iml" filepath="$PROJECT_DIR$/OrderAccountService/OrderAccountService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PublicGateWay/PublicGateWay.iml" filepath="$PROJECT_DIR$/PublicGateWay/PublicGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiayuapplication.iml" filepath="$PROJECT_DIR$/xiayuapplication.iml" />
+    </modules>
+  </component>
+</project>

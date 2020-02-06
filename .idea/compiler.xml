@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ActivityService" />
+        <module name="AdminGateWay" />
+        <module name="CommonIntegration" />
+        <module name="EurekaRigstryCenter" />
+        <module name="IntegrationClient" />
+        <module name="JobService" />
+        <module name="OrderAccountService" />
+        <module name="PublicGateWay" />
+        <module name="UserService" />
+        <module name="xiayuapplication" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ActivityService" target="1.8" />
+      <module name="AdminGateWay" target="1.8" />
+      <module name="CommonIntegration" target="1.8" />
+      <module name="EurekaRigstryCenter" target="1.8" />
+      <module name="IntegrationClient" target="1.8" />
+      <module name="JobService" target="1.8" />
+      <module name="OrderAccountService" target="1.8" />
+      <module name="PublicGateWay" target="1.8" />
+      <module name="UserService" target="1.8" />
+      <module name="xiayuapplication" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ActivityService" options="-parameters" />
+      <module name="AdminGateWay" options="-parameters" />
+      <module name="CommonIntegration" options="-parameters" />
+      <module name="EurekaRigstryCenter" options="-parameters" />
+      <module name="IntegrationClient" options="-parameters" />
+      <module name="JobService" options="-parameters" />
+      <module name="OrderAccountService" options="-parameters" />
+      <module name="PublicGateWay" options="-parameters" />
+      <module name="UserService" options="-parameters" />
+      <module name="xiayuapplication" options="-parameters" />
+    </option>
+  </component>
+</project>
