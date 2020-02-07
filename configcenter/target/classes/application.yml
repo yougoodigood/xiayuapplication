@@ -5,9 +5,15 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/yougoodigood/xiayuapplication/
-          search-paths: respo
+          uri: https://gitee.com/niruoanh/xiayuapplication #uri表示git公共仓库地址 私有仓库地址需要设置用户名及密码
+          search-paths: /config
+#          username: root
+#          password: root
       label: master
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8083/eureka/
 
 server:
   port: 8087

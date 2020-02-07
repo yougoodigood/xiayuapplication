@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: CommonIntegration
+
+server:
+  port: 8091
+xiayu:
+  feature:
+    mail: 1354234234523

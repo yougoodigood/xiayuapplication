@@ -4,12 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivityService/ActivityService.iml" filepath="$PROJECT_DIR$/ActivityService/ActivityService.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdminGateWay/AdminGateWay.iml" filepath="$PROJECT_DIR$/AdminGateWay/AdminGateWay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CommonIntegration/UserIntegration.iml" filepath="$PROJECT_DIR$/CommonIntegration/UserIntegration.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaRigstryCenter/EurekaRigstryCenter.iml" filepath="$PROJECT_DIR$/EurekaRigstryCenter/EurekaRigstryCenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntegrationClient/Integration-client.iml" filepath="$PROJECT_DIR$/IntegrationClient/Integration-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/JobService/JobService.iml" filepath="$PROJECT_DIR$/JobService/JobService.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrderAccountService/OrderService.iml" filepath="$PROJECT_DIR$/OrderAccountService/OrderService.iml" />
       <module fileurl="file://$PROJECT_DIR$/PublicGateWay/PublicGateWay.iml" filepath="$PROJECT_DIR$/PublicGateWay/PublicGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonIntegration/UserIntegration.iml" filepath="$PROJECT_DIR$/CommonIntegration/UserIntegration.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/configcenter/configcenter.iml" filepath="$PROJECT_DIR$/configcenter/configcenter.iml" />

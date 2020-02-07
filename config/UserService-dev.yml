@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: UserService
+server:
+  port: 8085
+feign:
+  hystrix:
+    enabled: true
