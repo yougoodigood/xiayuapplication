@@ -1,13 +1,28 @@
-spring:
-  application:
-    name: UserService
-server:
-  port: 8085
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8083/eureka/
-feign:
-  hystrix:
-    enabled: true
-
+#spring:
+#  application:
+#    name: UserService
+#  rabbitmq:
+#    password: guest
+#    username: guest
+#    host: localhost
+#    port: 5672
+#  cloud:
+#    bus:
+#      enabled: true
+#      trace:
+#        enabled: true
+#server:
+#  port: 8085
+#feign:
+#  hystrix:
+#    enabled: true
+#
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: bus-refresh
+#
+#feign:
+#  hystrix:
+#    enabled: true

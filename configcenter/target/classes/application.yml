@@ -2,6 +2,10 @@ spring:
   application:
     name: configcenter
   cloud:
+    bus:
+      enabled: true
+      trace:
+        enabled: true
     config:
       server:
         git:
@@ -10,10 +14,23 @@ spring:
 #          username: root
 #          password: root
       label: master
+  rabbitmq:
+      password: guest
+      username: guest
+      host: localhost
+      port: 5672
+
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8083/eureka/
+      defaultZone: http://localhost:8083/eureka/,http://localhost:8082/eureka/
 
 server:
   port: 8087
+
+management: #配置springboot暴露出刷新接口
+  endpoints:
+    web:
+      exposure:
+        include: "*" #要加""
+

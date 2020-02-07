@@ -27,6 +27,7 @@
         <module>ActivityService</module>
         <module>IntegrationClient</module>
         <module>configcenter</module>
+        <module>EurekaRegistryCenterTwo</module>
     </modules>
 
     <properties>

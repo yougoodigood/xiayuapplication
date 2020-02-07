@@ -1,9 +1,25 @@
 spring:
   application:
     name: CommonIntegration
+  rabbitmq:
+    password: guest
+    username: guest
+    host: localhost
+    port: 5672
+  cloud:
+    bus:
+      enabled: true
+      trace:
+        enabled: true
 
 server:
   port: 8091
 xiayu:
   feature:
-    mail: 1354234234523
+    mail: '{cipher}cb2d3a481ab97be5ace975e9040dd88f887b005c5b9bd71bcd2e37f07edb70ea'
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

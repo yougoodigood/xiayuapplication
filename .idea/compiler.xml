@@ -10,6 +10,7 @@
         <module name="AdminGateWay" />
         <module name="CommonIntegration" />
         <module name="configcenter" />
+        <module name="EurekaRegistryCenterTwo" />
         <module name="EurekaRigstryCenter" />
         <module name="Integration-client" />
         <module name="IntegrationClient" />
@@ -26,6 +27,7 @@
       <module name="AdminGateWay" target="1.8" />
       <module name="CommonIntegration" target="1.8" />
       <module name="configcenter" target="1.8" />
+      <module name="EurekaRegistryCenterTwo" target="1.8" />
       <module name="EurekaRigstryCenter" target="1.8" />
       <module name="Integration-client" target="1.8" />
       <module name="IntegrationClient" target="1.8" />

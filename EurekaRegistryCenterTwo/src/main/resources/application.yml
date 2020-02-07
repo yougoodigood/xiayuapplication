@@ -2,7 +2,7 @@ spring:
   application:
     name: EurekaRigstryCenterApplication
 server:
-  port: 8083
+  port: 8082
 
 eureka:
   instance:
@@ -11,4 +11,4 @@ eureka:
 #    registerWithEureka: false
 #    fetchRegistry: false
     serviceUrl:
-      defaultZone: http://${eureka.instance.hostname}:8082/eureka/
+      defaultZone: http://${eureka.instance.hostname}:8083/eureka/
