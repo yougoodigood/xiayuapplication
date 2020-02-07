@@ -9,28 +9,27 @@
         <module name="ActivityService" />
         <module name="AdminGateWay" />
         <module name="CommonIntegration" />
+        <module name="configcenter" />
         <module name="EurekaRigstryCenter" />
         <module name="IntegrationClient" />
         <module name="JobService" />
         <module name="OrderAccountService" />
         <module name="OrderService" />
         <module name="PublicGateWay" />
-        <module name="UserIntegration" />
         <module name="UserService" />
-        <module name="xiayuapplication" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ActivityService" target="1.8" />
       <module name="AdminGateWay" target="1.8" />
       <module name="CommonIntegration" target="1.8" />
+      <module name="configcenter" target="1.8" />
       <module name="EurekaRigstryCenter" target="1.8" />
       <module name="IntegrationClient" target="1.8" />
       <module name="JobService" target="1.8" />
       <module name="OrderAccountService" target="1.8" />
       <module name="OrderService" target="1.8" />
       <module name="PublicGateWay" target="1.8" />
-      <module name="UserIntegration" target="1.8" />
       <module name="UserService" target="1.8" />
       <module name="xiayuapplication" target="1.8" />
     </bytecodeTargetLevel>
